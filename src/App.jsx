@@ -1,3 +1,4 @@
+import React from 'react';
 import { ArrowRight, CalendarDays, Instagram, MapPin, Menu, Sparkles, Star } from 'lucide-react';
 
 const cakes = [
